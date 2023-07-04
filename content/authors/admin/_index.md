@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Cédric Picron is a PhD candidate at the KU Leuven ESAT-PSI lab under supervision of Professor Tinne Tuytelaars. His research interests include designing efficient and high-performing network architectures for various computer vision tasks, such as object detection and instance segmentation.
+Cédric Picron is a PhD candidate at the KU Leuven ESAT-PSI lab under supervision of Prof. Tinne Tuytelaars. His research interests include designing efficient and high-performing network architectures for various computer vision tasks, such as object detection and instance segmentation.
 {style="text-align: justify;"}
