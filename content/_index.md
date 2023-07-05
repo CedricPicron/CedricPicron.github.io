@@ -37,6 +37,7 @@ sections:
       columns: '2'
       view: citation
   - block: experience
+    id: education
     content:
       title: Education
       # Date format for experience

@@ -10,12 +10,15 @@ main:
   - name: Research
     url: '#featured'
     weight: 20
+  - name: Education
+    url: ''
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 30
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 40
+    weight: 50
