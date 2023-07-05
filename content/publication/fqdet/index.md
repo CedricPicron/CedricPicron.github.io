@@ -42,6 +42,7 @@ featured: true
 
 url_pdf: 'https://arxiv.org/pdf/2210.02318.pdf'
 url_code: 'https://github.com/CedricPicron/FQDet'
+url_poster: 'https://nips.cc/media/PosterPDFs/NeurIPS%202022/61318.png'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
