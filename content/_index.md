@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Featured Research
       filters:
         folders:
           - publication
@@ -24,7 +24,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Research
       filters:
         folders:
           - publication
