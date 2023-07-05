@@ -37,7 +37,7 @@ sections:
           company_logo: kul
           location: Leuven, Belgium
           date_start: '2017-09-01'
-          date_end: '2019-06-31'
+          date_end: '2019-07-01'
           description: Graduated with magna cum laude.
         - title: BSc of Electrical Engineering
           company: Vrije Universiteit Brussel
@@ -45,7 +45,7 @@ sections:
           company_logo: vub
           location: Brussels, Belgium
           date_start: '2014-09-01'
-          date_end: '2017-06-31'
+          date_end: '2017-07-01'
           description: Graduated with summa cum laude.
     design:
       columns: '2'
