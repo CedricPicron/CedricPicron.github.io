@@ -22,7 +22,7 @@ organizations:
     url: https://www.kuleuven.be/english/kuleuven/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include designing object detection and segmentation network architectures.
+bio: My research interests include designing computer vision networks.
 
 # Interests to show in About widget
 interests:

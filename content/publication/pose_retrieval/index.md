@@ -7,7 +7,7 @@ title: 'Category-level pose retrieval with contrastive features learnt with occl
 authors:
   - Georgios Kouros
   - Shubham Shrivastava
-  - Cédric Picron
+  - admin
   - Sushruth Nagesh
   - Punarjay Chakravarty
   - Tinne Tuytelaars
