@@ -45,7 +45,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD candidate
+        - title: PhD candidate in Computer Vision
           company: KU Leuven, ESAT-PSI
           company_url: 'https://www.esat.kuleuven.be/english/overview'
           company_logo: esat
