@@ -33,7 +33,7 @@ summary: A new query-based two-stage object detection head combining the best of
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
