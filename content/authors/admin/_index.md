@@ -28,7 +28,8 @@ bio: Computer Vision Engineer & AI enthousiast.
 interests:
   - Computer Vision
   - Large Language Models (LLMs)
-  - Natural Language Processing (NLP)
+  - Human Pose Estimation
+  - Object Detection
   - Deep Learning & AI
 
 # Education to show in About widget
@@ -75,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-Hi there! This is my personal website, where you can find some of the research I did during my PhD some years ago. These days, I'm working at Toyota Motor Europe (TME) as a Computer Vision Engineer. Please also check out my LinkedIn page for the latest updates! Greetings, Cédric.
+Hi there! This is my personal website, where you can an overview of the research I did during my PhD some years ago. These days, I'm working as a Computer Vision Engineer at Toyota Motor Europe (TME). Please also check out my LinkedIn page for the latest updates! Greetings, Cédric.
 {style="text-align: justify;"}
