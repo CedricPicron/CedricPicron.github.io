@@ -14,29 +14,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Computer Vision
+role: Computer Vision Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KU Leuven
-    url: https://www.kuleuven.be/english/kuleuven/index.html
+  - name: Toyota Motor Europe
+    url: https://www.toyota-europe.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include designing computer vision networks.
+bio: Computer Vision Engineer & AI enthousiast.
 
 # Interests to show in About widget
 interests:
-  - Architecture Design
   - Computer Vision
-  - Object Detection
-  - Segmentation
+  - Large Language Models (LLMs)
+  - Natural Language Processing (NLP)
+  - Deep Learning & AI
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Vision
       institution: KU Leuven
-      year: 2023 (ongoing)
+      year: 2024
     - course: MSc in Mathemetical Engineering
       institution: KU Leuven
       year: 2019
@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Cédric Picron is a PhD candidate at the KU Leuven ESAT-PSI lab under supervision of Prof. Tinne Tuytelaars. His research interests include designing efficient and high-performing network architectures for various computer vision tasks, such as object detection and instance segmentation.
+Hi there! This is my personal website, where you can find some of the research I did during my PhD some years ago. These days, I'm working at Toyota Motor Europe (TME) as a Computer Vision Engineer. Please also check out my LinkedIn page for the latest updates! Greetings, Cédric.
 {style="text-align: justify;"}
